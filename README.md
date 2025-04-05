@@ -51,3 +51,5 @@ llava/train/train_dryrun.py: test run code
 ```bash
 python llava/train/train_dryrun.py --output_dir ./dryrun_outputs
 ```
+
+check latest commit history to see the files changed.
