@@ -11,3 +11,8 @@ DEFAULT_IMAGE_PATCH_TOKEN = "<im_patch>"
 DEFAULT_IM_START_TOKEN = "<im_start>"
 DEFAULT_IM_END_TOKEN = "<im_end>"
 IMAGE_PLACEHOLDER = "<image-placeholder>"
+
+AUDIO_TOKEN_INDEX = -210  # Choose an appropriate value
+DEFAULT_AUDIO_TOKEN = "<audio>"
+DEFAULT_AUDIO_START_TOKEN = "<audio_start>"
+DEFAULT_AUDIO_END_TOKEN = "<audio_end>"
